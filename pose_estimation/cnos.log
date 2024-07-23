@@ -1,0 +1,1356 @@
+2024-07-09 11:27:14,178 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:27:22,783 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:27:22,783 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:29:57,618 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:29:57,618 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:30:04,901 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:30:04,901 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:30:04,901 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:30:04,901 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:30:07,354 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:30:07,354 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:36:26,768 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:36:26,768 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:36:26,768 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:36:26,768 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:36:26,768 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:36:26,768 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:36:37,343 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:36:37,343 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:36:37,343 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:36:37,343 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:36:37,343 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:36:37,343 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:36:39,307 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:36:39,307 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:36:39,307 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:37:05,692 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:37:05,692 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:37:05,692 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:37:05,692 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:37:05,693 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:37:05,693 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:37:05,693 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:37:05,693 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:37:08,880 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:37:08,880 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:37:08,880 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:37:08,880 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:37:08,880 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:37:08,880 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:37:08,880 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:37:08,880 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:37:10,587 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:37:10,587 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:37:10,587 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:37:10,587 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:38:03,309 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:38:03,309 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:38:03,309 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:38:03,309 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:38:03,309 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:38:03,309 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:38:03,309 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:38:03,309 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:38:03,309 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:38:03,309 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:38:06,537 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:38:06,537 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:38:06,537 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:38:06,537 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:38:06,537 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:38:06,537 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:38:06,537 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:38:06,537 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:38:06,537 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:38:06,537 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:38:08,468 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:38:08,468 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:38:08,468 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:38:08,468 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:38:08,468 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:41:50,156 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:41:50,156 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:41:50,156 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:41:50,156 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:41:50,156 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:41:50,156 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:41:50,156 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:41:50,156 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:41:50,156 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:41:50,156 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:41:50,156 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:41:50,156 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:41:53,654 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:41:53,654 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:41:53,654 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:41:53,654 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:41:53,654 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:41:53,654 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:41:53,654 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:41:53,654 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:41:53,654 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:41:53,654 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:41:53,654 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:41:53,654 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:41:55,421 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:41:55,421 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:41:55,421 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:41:55,421 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:41:55,421 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:41:55,421 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:45:39,904 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:45:39,904 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:45:39,904 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:45:39,904 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:45:39,904 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:45:39,904 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:45:39,904 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:45:39,904 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:45:39,904 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:45:39,904 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:45:39,904 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:45:39,904 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:45:39,904 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:45:39,904 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:45:43,325 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:45:43,325 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:45:43,325 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:45:43,325 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:45:43,325 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:45:43,325 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:45:43,325 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:45:43,325 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:45:43,325 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:45:43,325 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:45:43,325 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:45:43,325 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:45:43,325 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:45:43,325 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:45:45,104 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:45:45,104 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:45:45,104 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:45:45,104 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:45:45,104 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:45:45,104 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:45:45,104 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:47:42,003 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:47:42,003 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:47:42,003 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:47:42,003 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:47:42,003 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:47:42,003 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:47:42,003 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:47:42,003 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:47:42,003 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:47:42,003 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:47:42,003 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:47:42,003 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:47:42,003 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:47:42,003 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:47:42,003 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:47:42,003 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:47:45,374 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:47:45,374 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:47:45,374 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:47:45,374 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:47:45,374 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:47:45,374 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:47:45,374 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:47:45,374 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:47:45,375 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:47:45,375 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:47:45,375 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:47:45,375 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:47:45,375 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:47:45,375 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:47:45,375 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:47:45,375 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:47:47,152 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:47:47,152 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:47:47,152 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:47:47,152 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:47:47,152 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:47:47,152 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:47:47,152 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:47:47,152 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:50:33,447 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:50:33,447 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:50:33,447 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:50:33,447 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:50:33,447 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:50:33,447 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:50:33,447 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:50:33,447 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:50:33,447 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:50:33,448 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:50:33,448 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:50:33,448 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:50:33,448 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:50:33,448 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:50:33,448 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:50:33,448 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:50:33,448 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:50:33,448 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:50:36,790 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:50:36,790 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:50:36,790 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:50:36,790 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:50:36,790 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:50:36,790 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:50:36,790 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:50:36,790 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:50:36,790 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:50:36,790 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:50:36,790 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:50:36,790 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:50:36,790 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:50:36,790 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:50:36,790 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:50:36,790 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:50:36,790 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:50:36,790 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:50:38,555 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:50:38,555 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:50:38,555 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:50:38,555 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:50:38,555 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:50:38,555 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:50:38,555 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:50:38,555 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:50:38,555 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:59:21,848 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:59:21,848 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:59:21,848 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:59:21,848 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:59:21,848 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:59:21,848 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:59:21,848 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:59:21,848 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:59:21,848 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:59:21,848 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 11:59:21,848 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:59:21,848 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:59:21,848 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:59:21,848 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:59:21,848 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:59:21,848 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:59:21,848 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:59:21,848 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:59:21,848 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:59:21,848 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 11:59:25,122 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:59:25,122 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:59:25,122 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:59:25,122 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:59:25,122 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:59:25,122 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:59:25,122 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:59:25,122 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:59:25,122 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:59:25,122 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 11:59:25,123 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:59:25,123 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:59:25,123 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:59:25,123 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:59:25,123 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:59:25,123 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:59:25,123 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:59:25,123 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:59:25,123 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:59:25,123 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 11:59:26,836 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:59:26,836 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:59:26,836 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:59:26,836 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:59:26,836 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:59:26,836 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:59:26,836 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:59:26,836 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:59:26,836 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 11:59:26,836 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:00:04,333 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:00:04,333 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:00:04,333 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:00:04,333 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:00:04,333 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:00:04,333 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:00:04,333 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:00:04,333 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:00:04,333 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:00:04,333 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:00:04,333 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:00:04,333 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:00:04,333 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:00:04,333 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:00:04,333 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:00:04,333 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:00:04,333 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:00:04,333 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:00:04,333 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:00:04,333 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:00:04,333 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:00:04,333 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:00:07,826 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:00:07,826 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:00:07,826 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:00:07,826 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:00:07,826 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:00:07,826 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:00:07,826 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:00:07,826 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:00:07,826 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:00:07,826 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:00:07,826 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:00:07,826 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:00:07,826 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:00:07,826 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:00:07,826 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:00:07,826 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:00:07,826 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:00:07,826 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:00:07,826 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:00:07,826 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:00:07,826 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:00:07,826 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:00:09,559 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:00:09,559 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:00:09,559 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:00:09,559 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:00:09,559 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:00:09,559 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:00:09,559 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:00:09,559 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:00:09,559 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:00:09,559 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:00:09,559 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:02:02,634 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:02:05,906 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:02:07,863 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:02:07,863 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:02:07,863 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:02:07,863 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:02:07,863 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:02:07,863 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:02:07,863 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:02:07,863 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:02:07,863 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:02:07,863 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:02:07,863 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:02:07,863 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:11:50,302 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:11:53,770 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:11:53,770 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:11:53,770 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:11:53,770 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:11:53,770 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:11:53,770 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:11:53,770 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:11:53,770 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:11:53,770 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:11:53,770 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:11:53,770 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:11:53,770 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:11:53,770 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:11:53,771 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:11:53,771 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:11:53,771 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:11:53,771 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:11:53,771 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:11:53,771 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:11:53,771 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:11:53,771 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:11:53,771 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:11:53,771 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:11:53,771 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:11:53,771 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:11:53,771 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:11:55,734 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:11:55,734 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:11:55,734 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:11:55,734 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:11:55,734 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:11:55,734 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:11:55,734 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:11:55,734 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:11:55,734 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:11:55,734 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:11:55,734 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:11:55,734 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:11:55,734 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:12:38,305 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:12:41,602 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 12:12:43,312 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:12:43,312 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:12:43,312 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:12:43,312 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:12:43,312 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:12:43,312 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:12:43,312 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:12:43,312 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:12:43,312 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:12:43,312 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:12:43,312 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:12:43,312 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:12:43,312 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 12:12:43,312 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 13:17:49,460 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 13:17:49,460 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 13:18:01,493 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 13:18:01,493 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 13:18:03,426 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 13:19:06,793 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 13:19:06,793 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 13:19:06,793 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 13:19:06,793 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 13:19:10,276 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 13:19:10,276 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 13:19:10,276 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 13:19:10,276 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 13:19:12,009 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 13:19:12,009 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:00:41,421 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:00:41,421 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:00:53,585 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:00:53,585 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:00:55,532 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:04:45,360 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:04:45,360 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:04:45,360 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:04:45,360 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:04:48,933 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:04:48,933 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:04:48,933 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:04:48,933 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:04:50,697 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:04:50,697 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:06:00,658 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:06:00,658 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:06:00,658 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:06:00,658 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:06:00,658 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:06:00,658 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:06:04,185 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:06:04,185 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:06:04,185 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:06:04,185 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:06:04,185 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:06:04,185 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:06:05,947 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:06:05,947 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:06:05,947 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:18:09,941 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:18:09,941 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:18:09,941 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:18:09,941 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:18:09,941 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:18:09,941 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:18:09,941 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:18:09,941 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:18:13,262 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:18:13,262 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:18:13,262 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:18:13,262 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:18:13,262 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:18:13,262 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:18:13,262 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:18:13,262 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:18:14,988 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:18:14,988 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:18:14,988 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:18:14,988 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:19:52,885 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:19:52,885 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:19:52,885 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:19:52,885 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:19:52,885 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:19:52,886 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:19:52,886 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:19:52,886 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:19:52,886 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:19:52,886 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:19:56,018 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:19:56,018 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:19:56,018 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:19:56,018 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:19:56,018 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:19:56,018 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:19:56,018 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:19:56,018 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:19:56,018 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:19:56,018 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:19:57,725 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:19:57,725 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:19:57,725 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:19:57,725 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:19:57,725 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:25:13,907 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:25:13,907 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:25:13,907 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:25:13,907 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:25:13,907 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:25:13,907 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:25:13,908 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:25:13,908 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:25:13,908 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:25:13,908 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:25:13,908 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:25:13,908 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:25:16,989 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:25:16,989 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:25:16,989 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:25:16,989 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:25:16,989 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:25:16,989 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:25:16,990 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:25:16,990 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:25:16,990 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:25:16,990 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:25:16,990 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:25:16,990 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:25:18,701 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:25:18,701 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:25:18,701 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:25:18,701 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:25:18,701 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:25:18,701 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:27:32,267 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:27:32,267 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:27:44,183 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:27:44,183 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:27:46,099 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:30:32,636 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:30:32,636 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:30:32,636 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:30:32,636 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:30:36,114 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:30:36,114 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:30:36,136 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:30:36,136 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:30:37,865 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:30:37,865 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:34:23,681 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:34:23,681 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:34:23,681 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:34:23,681 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:34:23,681 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:34:23,681 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:34:27,182 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:34:27,182 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:34:27,182 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:34:27,182 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:34:27,182 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:34:27,182 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:34:28,902 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:34:28,902 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:34:28,902 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-09 16:35:36,382 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-09 16:35:36,382 : __main__  : __init__ : INFO : Initializing model
+2024-07-09 16:35:48,215 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-09 16:35:48,215 : __main__  : __init__ : INFO : Initializing template
+2024-07-09 16:35:50,181 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-10 11:12:07,543 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-10 11:12:07,543 : __main__  : __init__ : INFO : Initializing model
+2024-07-10 11:12:20,768 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-10 11:12:20,768 : __main__  : __init__ : INFO : Initializing template
+2024-07-10 11:12:25,101 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-10 11:15:20,294 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-10 11:15:20,294 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-10 11:15:20,294 : __main__  : __init__ : INFO : Initializing model
+2024-07-10 11:15:20,294 : __main__  : __init__ : INFO : Initializing model
+2024-07-10 11:15:24,163 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-10 11:15:24,163 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-10 11:15:24,163 : __main__  : __init__ : INFO : Initializing template
+2024-07-10 11:15:24,163 : __main__  : __init__ : INFO : Initializing template
+2024-07-10 11:15:27,901 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-10 11:15:27,901 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-10 11:16:02,054 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-10 11:16:02,054 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-10 11:16:02,054 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-10 11:16:02,055 : __main__  : __init__ : INFO : Initializing model
+2024-07-10 11:16:02,055 : __main__  : __init__ : INFO : Initializing model
+2024-07-10 11:16:02,055 : __main__  : __init__ : INFO : Initializing model
+2024-07-10 11:16:05,221 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-10 11:16:05,221 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-10 11:16:05,221 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-10 11:16:05,221 : __main__  : __init__ : INFO : Initializing template
+2024-07-10 11:16:05,221 : __main__  : __init__ : INFO : Initializing template
+2024-07-10 11:16:05,221 : __main__  : __init__ : INFO : Initializing template
+2024-07-10 11:16:08,927 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-10 11:16:08,927 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-10 11:16:08,927 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 15:18:10,540 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 15:18:10,540 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 15:18:24,641 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 15:18:24,641 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 15:18:27,007 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:32:48,715 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:32:48,715 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:33:01,343 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:33:01,344 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:33:03,345 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:33:55,977 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:33:55,977 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:33:55,977 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:33:55,977 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:34:00,071 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:34:00,071 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:34:00,071 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:34:00,071 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:34:02,094 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:34:02,094 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:34:54,526 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:34:54,526 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:34:54,526 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:34:54,527 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:34:54,527 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:34:54,527 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:34:58,545 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:34:58,545 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:34:58,545 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:34:58,545 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:34:58,545 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:34:58,545 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:35:00,531 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:35:00,531 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:35:00,531 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:38:40,634 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:38:40,634 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:38:40,634 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:38:40,634 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:38:40,635 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:38:40,635 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:38:40,635 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:38:40,635 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:38:44,122 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:38:44,122 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:38:44,122 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:38:44,122 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:38:44,122 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:38:44,122 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:38:44,122 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:38:44,122 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:38:45,915 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:38:45,915 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:38:45,915 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:38:45,915 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:42:54,185 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:42:54,185 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:42:54,185 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:42:54,185 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:42:54,185 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:42:54,185 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:42:54,185 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:42:54,185 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:42:54,185 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:42:54,185 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:42:57,784 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:42:57,784 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:42:57,784 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:42:57,784 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:42:57,784 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:42:57,784 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:42:57,784 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:42:57,784 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:42:57,784 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:42:57,784 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:42:59,596 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:42:59,596 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:42:59,596 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:42:59,596 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:42:59,596 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:46:17,032 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:46:17,032 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:46:17,032 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:46:17,032 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:46:17,032 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:46:17,032 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:46:17,033 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:46:17,033 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:46:17,033 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:46:17,033 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:46:17,033 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:46:17,033 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:46:20,457 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:46:20,457 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:46:20,457 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:46:20,457 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:46:20,457 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:46:20,457 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:46:20,457 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:46:20,457 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:46:20,457 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:46:20,457 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:46:20,457 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:46:20,457 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:46:22,251 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:46:22,251 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:46:22,251 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:46:22,251 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:46:22,251 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:46:22,251 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:48:15,242 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:48:15,242 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:48:15,242 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:48:15,242 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:48:15,242 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:48:15,242 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:48:15,242 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:48:15,242 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:48:15,242 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:48:15,242 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:48:15,242 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:48:15,242 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:48:15,242 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:48:15,242 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:48:18,706 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:48:18,706 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:48:18,706 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:48:18,706 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:48:18,706 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:48:18,706 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:48:18,706 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:48:18,707 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:48:18,707 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:48:18,707 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:48:18,707 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:48:18,707 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:48:18,707 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:48:18,707 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:48:20,496 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:48:20,496 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:48:20,496 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:48:20,496 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:48:20,496 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:48:20,496 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:48:20,496 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:54:09,115 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:54:09,115 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:54:09,115 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:54:09,115 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:54:09,115 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:54:09,115 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:54:09,115 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:54:09,115 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:54:09,115 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:54:09,115 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:54:09,115 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:54:09,115 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:54:09,115 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:54:09,115 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:54:09,115 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:54:09,115 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:54:12,586 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:54:12,586 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:54:12,586 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:54:12,586 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:54:12,586 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:54:12,586 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:54:12,586 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:54:12,586 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:54:12,586 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:54:12,586 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:54:12,586 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:54:12,586 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:54:12,586 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:54:12,586 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:54:12,586 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:54:12,586 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:54:14,589 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:54:14,589 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:54:14,589 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:54:14,589 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:54:14,589 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:54:14,589 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:54:14,589 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:54:14,589 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:59:29,814 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:59:29,814 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:59:29,814 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:59:29,814 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:59:29,814 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:59:29,814 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:59:29,814 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:59:29,814 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:59:29,814 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 17:59:29,814 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:59:29,814 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:59:29,814 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:59:29,814 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:59:29,814 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:59:29,814 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:59:29,814 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:59:29,814 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:59:29,814 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 17:59:33,253 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:59:33,253 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:59:33,253 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:59:33,253 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:59:33,253 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:59:33,253 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:59:33,253 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:59:33,253 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:59:33,253 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 17:59:33,253 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:59:33,253 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:59:33,253 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:59:33,253 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:59:33,253 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:59:33,253 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:59:33,253 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:59:33,253 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:59:33,253 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 17:59:35,012 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:59:35,012 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:59:35,012 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:59:35,012 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:59:35,012 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:59:35,012 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:59:35,012 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:59:35,012 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 17:59:35,012 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 18:03:14,290 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 18:03:14,290 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 18:03:14,290 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 18:03:14,290 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 18:03:14,290 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 18:03:14,290 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 18:03:14,290 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 18:03:14,290 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 18:03:14,290 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 18:03:14,290 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 18:03:14,290 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 18:03:14,290 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 18:03:14,290 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 18:03:14,290 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 18:03:14,290 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 18:03:14,290 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 18:03:14,290 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 18:03:14,290 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 18:03:14,290 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 18:03:14,290 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 18:03:17,630 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 18:03:17,630 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 18:03:17,630 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 18:03:17,630 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 18:03:17,630 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 18:03:17,630 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 18:03:17,630 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 18:03:17,630 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 18:03:17,630 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 18:03:17,630 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 18:03:17,631 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 18:03:17,631 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 18:03:17,631 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 18:03:17,631 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 18:03:17,631 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 18:03:17,631 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 18:03:17,631 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 18:03:17,631 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 18:03:17,631 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 18:03:17,631 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 18:03:19,632 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 18:03:19,632 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 18:03:19,632 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 18:03:19,632 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 18:03:19,632 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 18:03:19,632 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 18:03:19,632 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 18:03:19,632 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 18:03:19,632 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 18:03:19,632 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 19:54:36,643 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 19:54:36,643 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 19:54:43,027 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 19:54:43,027 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 19:54:46,850 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:03:21,243 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:03:21,243 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:03:28,132 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:03:28,132 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:03:30,261 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:06:24,617 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:06:24,617 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:06:24,618 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:06:24,618 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:06:28,480 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:06:28,480 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:06:28,480 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:06:28,480 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:06:30,231 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:06:30,231 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:08:23,536 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:08:23,536 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:08:23,536 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:08:23,537 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:08:23,537 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:08:23,537 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:08:27,093 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:08:27,093 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:08:27,093 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:08:27,093 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:08:27,093 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:08:27,093 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:08:28,858 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:08:28,858 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:08:28,858 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:13:20,154 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:13:20,154 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:13:20,154 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:13:20,154 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:13:20,155 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:13:20,155 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:13:20,155 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:13:20,155 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:13:23,990 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:13:23,990 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:13:23,990 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:13:23,990 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:13:23,990 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:13:23,990 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:13:23,990 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:13:23,990 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:13:25,977 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:13:25,977 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:13:25,977 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:13:25,977 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:24:38,383 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:24:38,383 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:24:38,383 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:24:38,383 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:24:38,383 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:24:38,383 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:24:38,383 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:24:38,383 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:24:38,383 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:24:38,383 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:24:42,190 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:24:42,190 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:24:42,190 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:24:42,190 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:24:42,190 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:24:42,191 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:24:42,191 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:24:42,191 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:24:42,191 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:24:42,191 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:24:44,007 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:24:44,007 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:24:44,007 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:24:44,007 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:24:44,007 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:25:09,825 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:25:09,825 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:25:09,825 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:25:09,825 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:25:09,825 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:25:09,825 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:25:09,825 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:25:09,825 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:25:09,825 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:25:09,825 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:25:09,825 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:25:09,825 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:25:13,268 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:25:13,268 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:25:13,268 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:25:13,268 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:25:13,268 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:25:13,268 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:25:13,268 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:25:13,268 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:25:13,268 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:25:13,268 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:25:13,268 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:25:13,268 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:25:15,157 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:25:15,157 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:25:15,157 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:25:15,157 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:25:15,157 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:25:15,157 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:50:59,499 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:50:59,499 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:50:59,499 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:50:59,499 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:50:59,499 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:50:59,499 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:50:59,499 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-22 20:50:59,499 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:50:59,499 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:50:59,499 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:50:59,499 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:50:59,499 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:50:59,499 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:50:59,499 : __main__  : __init__ : INFO : Initializing model
+2024-07-22 20:51:03,022 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:51:03,022 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:51:03,022 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:51:03,022 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:51:03,022 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:51:03,022 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:51:03,022 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-22 20:51:03,022 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:51:03,022 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:51:03,022 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:51:03,022 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:51:03,022 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:51:03,022 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:51:03,022 : __main__  : __init__ : INFO : Initializing template
+2024-07-22 20:51:04,792 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:51:04,792 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:51:04,792 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:51:04,792 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:51:04,792 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:51:04,792 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-22 20:51:04,792 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 09:44:37,577 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 09:44:37,578 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 09:44:51,248 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 09:44:51,248 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 09:44:53,468 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 09:52:06,371 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 09:52:06,371 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 09:52:06,371 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 09:52:06,371 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 09:52:09,982 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 09:52:09,982 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 09:52:09,982 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 09:52:09,982 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 09:52:11,719 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 09:52:11,719 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 09:56:29,028 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 09:56:29,028 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 09:56:29,028 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 09:56:29,028 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 09:56:29,028 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 09:56:29,028 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 09:56:32,367 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 09:56:32,367 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 09:56:32,367 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 09:56:32,367 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 09:56:32,367 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 09:56:32,367 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 09:56:34,115 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 09:56:34,115 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 09:56:34,115 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 09:57:47,004 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 09:57:47,004 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 09:57:47,004 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 09:57:47,004 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 09:57:47,004 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 09:57:47,004 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 09:57:47,004 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 09:57:47,004 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 09:57:50,122 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 09:57:50,122 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 09:57:50,122 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 09:57:50,122 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 09:57:50,122 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 09:57:50,122 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 09:57:50,122 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 09:57:50,122 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 09:57:51,870 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 09:57:51,870 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 09:57:51,870 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 09:57:51,870 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 09:59:37,225 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 09:59:37,225 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 09:59:37,225 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 09:59:37,225 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 09:59:37,225 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 09:59:37,226 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 09:59:37,226 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 09:59:37,226 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 09:59:37,226 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 09:59:37,226 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 09:59:40,582 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 09:59:40,582 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 09:59:40,582 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 09:59:40,582 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 09:59:40,582 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 09:59:40,582 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 09:59:40,582 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 09:59:40,582 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 09:59:40,582 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 09:59:40,582 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 09:59:42,335 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 09:59:42,335 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 09:59:42,335 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 09:59:42,335 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 09:59:42,335 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:00:20,167 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:00:20,167 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:00:20,167 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:00:20,167 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:00:20,167 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:00:20,167 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:00:20,167 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:00:20,167 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:00:20,167 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:00:20,167 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:00:20,167 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:00:20,167 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:00:23,390 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:00:23,390 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:00:23,390 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:00:23,390 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:00:23,390 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:00:23,390 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:00:23,390 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:00:23,390 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:00:23,390 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:00:23,390 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:00:23,390 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:00:23,390 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:00:25,135 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:00:25,135 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:00:25,135 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:00:25,135 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:00:25,135 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:00:25,135 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:08:01,497 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:08:01,497 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:08:01,497 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:08:01,497 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:08:01,497 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:08:01,497 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:08:01,497 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:08:01,497 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:08:01,497 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:08:01,497 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:08:01,497 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:08:01,497 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:08:01,497 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:08:01,497 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:08:05,089 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:08:05,089 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:08:05,089 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:08:05,089 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:08:05,089 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:08:05,089 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:08:05,089 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:08:05,089 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:08:05,089 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:08:05,089 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:08:05,089 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:08:05,089 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:08:05,089 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:08:05,089 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:08:06,833 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:08:06,833 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:08:06,833 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:08:06,833 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:08:06,833 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:08:06,833 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:08:06,833 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:22:44,134 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:22:44,134 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:22:44,134 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:22:44,134 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:22:44,134 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:22:44,134 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:22:44,134 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:22:44,134 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:22:44,135 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:22:44,135 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:22:44,135 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:22:44,135 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:22:44,135 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:22:44,135 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:22:44,135 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:22:44,135 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:22:47,441 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:22:47,441 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:22:47,441 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:22:47,441 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:22:47,441 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:22:47,441 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:22:47,441 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:22:47,441 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:22:47,441 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:22:47,441 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:22:47,441 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:22:47,441 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:22:47,441 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:22:47,441 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:22:47,441 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:22:47,441 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:22:49,392 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:22:49,392 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:22:49,392 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:22:49,392 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:22:49,392 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:22:49,392 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:22:49,392 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:22:49,392 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:31:24,369 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:31:24,369 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:31:24,369 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:31:24,369 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:31:24,369 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:31:24,369 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:31:24,369 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:31:24,369 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:31:24,369 : __main__  : __init__ : INFO : Using FastSAM, ignore stability_score_thresh!
+2024-07-23 10:31:24,369 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:31:24,369 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:31:24,369 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:31:24,369 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:31:24,369 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:31:24,369 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:31:24,369 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:31:24,369 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:31:24,369 : __main__  : __init__ : INFO : Initializing model
+2024-07-23 10:31:27,499 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:31:27,499 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:31:27,499 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:31:27,499 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:31:27,499 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:31:27,499 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:31:27,499 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:31:27,499 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:31:27,499 : __main__  : __init__ : INFO : Moving models to cuda done!
+2024-07-23 10:31:27,499 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:31:27,499 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:31:27,499 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:31:27,499 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:31:27,499 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:31:27,499 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:31:27,499 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:31:27,499 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:31:27,499 : __main__  : __init__ : INFO : Initializing template
+2024-07-23 10:31:29,229 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:31:29,229 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:31:29,229 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:31:29,229 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:31:29,229 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:31:29,229 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:31:29,229 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:31:29,229 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
+2024-07-23 10:31:29,229 : __main__  : __init__ : INFO : Ref feats: torch.Size([84, 1024])
